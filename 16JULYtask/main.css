@@ -1,0 +1,108 @@
+html {
+  box-sizing:border-box;
+  font-family:Arial,Helvetica,sans-serif;
+  color:#0e3c5f; /* dark blue */
+}
+*,*:before,*:after {
+  box-sizing:inherit;
+}
+body {
+  margin:0;
+}
+h2 {
+  text-transform:uppercase;
+  font-size:1.1em;
+  margin:0 0 1em 0; /* change default spacing */
+}
+a {
+  color:#539bf9; /* light blue */
+}
+.hidden {
+  position:absolute;
+  left:-10000px;
+}
+.page-wrapper {
+  max-width:980px;
+  margin:0 auto;
+}
+.menu {
+  text-transform:uppercase;
+  margin:0; /* remove default spacing from ul elements */
+}
+.menu > li {
+  display:inline-block;
+  list-style-type:none;
+  vertical-align:top;
+  margin-left:1em;
+}
+#footer-navigation > ul > li > a {
+  color:#0e3c5f; /* dark blue */
+}
+#main-navigation {
+  float:right;
+  margin-bottom:0.3em;
+}
+#footer-navigation {
+  float:right;
+  width:49%; /* for 2% margin */
+  font-size:1.1em;
+}
+#footer-navigation a {
+  text-decoration:none;
+}
+#footer-navigation a:hover {
+  text-decoration:underline;
+}
+#footer-navigation ul {
+  list-style:none;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+#footer-navigation li {
+  margin:0;
+}
+#footer-navigation ul.menu > li {
+  display:block;
+  float:left;
+  width:30%;
+  padding-right:1em;
+  padding-bottom:1em;
+  font-weight:bold;
+}
+#footer-navigation ul ul {
+  padding-top:1em;
+}
+#footer-navigation li li {
+  text-transform:none;
+  font-weight:normal;
+  font-size:0.875em;
+}
+#header {
+  padding:0 1em;
+  position:relative;
+  border-bottom:1px solid #999;
+  float:left; /* to make sure floated nav is included in header height */
+  width:100%;
+  margin-bottom:0.2em;
+}
+#header a {
+  text-decoration:none;
+  font-weight:bold;
+  font-size:0.95em;
+}
+/* FOOTER */
+#footer {
+  border-top:1px solid #999;
+  clear:both;
+  padding:1em;
+  font-size:0.8em;
+}
+#footer p {
+  margin:0 0 1em 0;
+}
+#copyright {
+  float:left;
+  width:49%;
+  margin-right:2%;
+}

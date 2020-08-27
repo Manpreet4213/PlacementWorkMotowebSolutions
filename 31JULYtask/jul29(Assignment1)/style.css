@@ -1,0 +1,103 @@
+body,h1,h2,h3,h4,h5,h6,ul,li 
+{
+	margin:0px;
+	padding:0px;
+	font-family: 'Montserrat', sans-serif;
+}
+.main-banner
+{
+	background-image:url('img1.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:110px 0px 250px 0px;
+	color:#fff;
+	background-position:0% 30%;
+}
+.main-banner h1 
+{
+	font-weight:bold;
+}
+.main-banner p 
+{
+	padding:0px 300px;
+	font-size:18px;
+}
+.contactform 
+{
+	margin-top:-200px;
+	-webkit-box-shadow: 0px 0px 14px 0px rgba(179,179,179,1);
+-moz-box-shadow: 0px 0px 14px 0px rgba(179,179,179,1);
+box-shadow: 0px 0px 14px 0px rgba(179,179,179,1);
+}
+.contactform .whitediv 
+{
+	padding:60px 40px;
+	background:white;
+}
+.contactform .whitediv h4 
+{
+	color:#037dc6;
+	font-weight:600
+}
+.contactform .whitediv label 
+{
+	color:#a5a2a2;
+	font-weight:400;
+}
+.contactform .whitediv input 
+{
+	border-bottom:1px solid #a5a2a2;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-radius:0;
+	box-shadow:none;
+}
+.contactform .whitediv textarea
+{
+	border-bottom:1px solid #a5a2a2;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-radius:0;
+	box-shadow:none;
+}
+.contactform .whitediv button 
+{
+	border-radius:40px;
+	color:#fff;
+	font-weight:600;
+	padding: 10px 19px;
+	background: rgba(3,127,198,1);
+background: -moz-linear-gradient(left, rgba(3,127,198,1) 0%, rgba(0,188,235,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(3,127,198,1)), color-stop(100%, rgba(0,188,235,1)));
+background: -webkit-linear-gradient(left, rgba(3,127,198,1) 0%, rgba(0,188,235,1) 100%);
+background: -o-linear-gradient(left, rgba(3,127,198,1) 0%, rgba(0,188,235,1) 100%);
+background: -ms-linear-gradient(left, rgba(3,127,198,1) 0%, rgba(0,188,235,1) 100%);
+background: linear-gradient(to right, rgba(3,127,198,1) 0%, rgba(0,188,235,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#037fc6', endColorstr='#00bceb', GradientType=1 );
+}
+
+.contactform .greendiv 
+{
+	background: rgba(14,165,120,1);
+	padding:60px 40px;
+	min-height:506px;
+background: -moz-linear-gradient(45deg, rgba(14,165,120,1) 0%, rgba(58,157,34,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(14,165,120,1)), color-stop(100%, rgba(58,157,34,1)));
+background: -webkit-linear-gradient(45deg, rgba(14,165,120,1) 0%, rgba(58,157,34,1) 100%);
+background: -o-linear-gradient(45deg, rgba(14,165,120,1) 0%, rgba(58,157,34,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(14,165,120,1) 0%, rgba(58,157,34,1) 100%);
+background: linear-gradient(45deg, rgba(14,165,120,1) 0%, rgba(58,157,34,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0ea578', endColorstr='#3a9d22', GradientType=1 );
+color:#fff;
+
+}
+.contactform .greendiv h4
+{
+	font-weight:600
+}
+.contactform .greendiv ul li 
+{
+	margin-bottom:30px;
+}

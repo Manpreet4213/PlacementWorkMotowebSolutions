@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Roboto+Condensed&display=swap');
+html {
+    box-sizing: border-box;
+    font-family:'PT Sans', sans-serif;
+}
+*, *::before, *::after {
+	box-sizing:inherit;
+}
+body {
+	font-family:'Roboto Condensed', sans-serif;
+}
+.hidden {
+  position: absolute;
+  left:-100000px;
+}
+h1, h3{
+  color: darkblue;
+  text-align: center;
+}
+header {
+  height:70px;
+}
+#header_nav{
+  display: inline-block;
+}
+#logo {
+  position: absolute;
+  margin-left:100px;
+  overflow: visible;
+}
+#nav_list {
+  display:inline-block;
+  list-style-type: none;
+  margin:1em;
+  margin-left: 39em;
+  overflow: hidden;
+  vertical-align: top;
+  font-size:17px;
+  color:black;
+}
+.h_home {
+  color:red;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 7px 7px;
+  text-decoration: none;
+}
+.header input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+/*Footer Styling*/
+footer{
+
+  background-color: #83480094;
+  height:90px;
+  max-height: 100%;
+}
+#copyright {
+  position: absolute;
+  margin-top:18px;
+  margin-left:150px;
+  max-width: 10%;
+  color: #FFFF;
+}
+
+
+
+
+
+
+
+
+

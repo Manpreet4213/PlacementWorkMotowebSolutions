@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4ae9d37-e23b-4fde-be64-4799b4261377" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/project-repo-phpteam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/DATABASE/Database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/DATABASE/Resort_Function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/ERDs/RAYMIL(ERD).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/ERDs/events erd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/ERDs/navjot(ERD).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/ERDs/rooms erd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/README .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/CareerAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/CareerDelete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/CareerUpdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/ContactAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/ContactDelete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/ContactUpdate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/Database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/Database2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/Event.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/Room.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/activitiesAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/addActivity.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/addBlog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/addEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/addFeedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/addRoom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/blogsAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/custom-error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/deleteBlog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/deleteEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/deleteFeedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/deleteRoom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/events1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/feedbackAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/footerAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/header3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/header4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/headerAdmin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/rooms1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/updateActivity.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/updateBlog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/updateEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/updateFeedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/admins/updateRoom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/database_connection(xamp)/database1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/functions/Career1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/functions/Contact1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/LightBlue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/1958364874dbd3456967a9ba6c753945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/Project task list4MANPREET KAURN01355663.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/eventbooking image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/home1jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/roombooking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/PROJECT_TASKLIST4/sandals-grenada-pool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/pc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/staff.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/images/swimming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/ContactUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/HelpCentre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/ResortCareer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/activities.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/blogPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/blogs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/events.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/feedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/header1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/header2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/includes/rooms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/ContactUs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/HelpCentre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/ResortCareer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/feedback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/javascript/room.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/resort_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/Contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/ContactUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/HelpCentre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/ResortCareer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/activities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/blogs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/event.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/feedback.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/resort2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/styles/rooms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-repo-phpteam-master/includes/stylesheets/home.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project-repo-phpteam-master/includes" />
+  </component>
+  <component name="ProjectId" id="1ceIGS17hxDjGhrzwC4FiDcLokq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ae9d37-e23b-4fde-be64-4799b4261377" name="Default Changelist" comment="" />
+      <created>1590882535779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590882535779</updated>
+      <workItem from="1590882537158" duration="4135000" />
+      <workItem from="1591489388532" duration="1184000" />
+      <workItem from="1591493114544" duration="2574000" />
+      <workItem from="1592193033587" duration="1033000" />
+      <workItem from="1592354611586" duration="618000" />
+      <workItem from="1592423193402" duration="1290000" />
+      <workItem from="1594874144984" duration="634000" />
+      <workItem from="1595093665981" duration="612000" />
+      <workItem from="1595192823169" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1595192835141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595192835141" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1595192824421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595192824421" />
+  </component>
+</project>
